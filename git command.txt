@@ -1,0 +1,5 @@
+git config --global user.name "irrinki"
+ git config --global user.email "irrinkiharsha825@gmail.com"
+git commit -m "complete chapter 1"
+ git log
+git add chapter1.txt chapter2.txt
